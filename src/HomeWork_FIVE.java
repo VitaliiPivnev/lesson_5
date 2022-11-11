@@ -18,7 +18,7 @@ public class HomeWork_FIVE {
         System.out.println("divide");
         System.out.println((double) first / (double) second);
 
-//-------------------------------------------------------------------
+//------------------------------------------------------------------
 
         System.out.println("Second LEVEL");
 
